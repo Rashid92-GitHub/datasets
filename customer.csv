@@ -1,92 +1,92 @@
-id,first_name,last_name,city,phone
-1,Elbertine,Robertucci,California,1-(805)951-9083
-2,Marcella,Kilshall,Colorado,1-(303)642-9320
-3,Daria,de la Valette Parisot,Florida,1-(352)629-9125
-4,Sherilyn,Widd,Distric...,1-(202)453-3897
-5,Ketty,Cridlin,Texas,1-(214)455-2169
-6,Jethro,Lubomirski,California,1-(510)278-9668
-7,Jeremiah,Carrabot,California,1-(559)713-9864
-8,Constancia,Eastmead,Texas,1-(806)550-1701
-9,Muire,Prestwich,Idaho,1-(208)811-7437
-10,Abigail,Craigs,Texas,1-(469)653-1340
-11,Wynne,Roote,Georgia,1-(404)911-0264
-12,Pietra,Hynson,Minnesota,1-(651)506-8628
-13,Bram,Valde,Iowa,1-(515)637-1353
-14,Rees,MacAllester,New York,1-(716)187-2661
-15,Valentijn,Reddel,California,1-(562)760-7094
-16,Monique,Van Zon,Missouri,1-(314)444-6148
-17,Orazio,Boddis,Louisiana,1-(318)313-4592
-18,Mason,Letterick,Texas,1-(806)351-0113
-19,Alf,Spedding,Arizona,1-(480)428-5133
-20,Colette,Doddridge,Texas,1-(214)267-1433
-21,Laney,McNirlan,Virginia,1-(804)501-3470
-22,Horace,Bellard,Texas,1-(972)690-7423
-23,Chad,Mosey,California,1-(916)734-1456
-24,Lina,Nares,Texas,1-(713)376-7959
-25,Maisey,Whetnall,Oklahoma,1-(405)608-5556
-26,Brett,Scally,Kansas,1-(785)621-7363
-27,Ermin,O'Flannery,Ohio,1-(937)478-5176
-28,Avrit,Lerven,Texas,1-(817)651-5322
-29,Dinny,Peracco,Massach...,1-(339)830-9223
-30,Winonah,Windram,Florida,1-(305)513-6063
-31,Clemmie,McKeady,Tennessee,1-(865)334-8263
-32,Arlinda,Van der Hoeven,Connect...,1-(203)828-1348
-33,Chloette,Ney,Florida,1-(863)860-1004
-34,Malva,Sherewood,Oklahoma,1-(405)298-8303
-35,Lavinie,Grimmolby,South D...,1-(605)631-4345
-36,Ray,Rawlings,Ohio,1-(740)280-5831
-37,Burt,Tricker,Rhode I...,1-(401)348-3505
-38,Llywellyn,Dorin,Ohio,1-(937)825-4622
-39,Anna-diana,Albrook,West Vi...,1-(304)811-7260
-40,Joanna,Mosedall,South D...,1-(605)585-0866
-41,Alana,Biesterfeld,California,1-(661)871-1329
-42,Mort,Killbey,California,1-(408)283-6075
-43,Lissie,Kelland,Nevada,1-(702)667-7712
-44,Hedvige,Winfindale,Florida,1-(850)489-4082
-45,Leroy,Tee,New Jersey,1-(862)428-8527
-46,Glendon,Nicholas,Georgia,1-(706)215-3562
-47,Radcliffe,Aers,California,1-(213)580-7332
-48,Rosalynd,Lopes,West Vi...,1-(304)166-0935
-49,Ailee,Partlett,Texas,1-(915)419-7524
-50,Trudie,Bartolijn,Iowa,1-(515)197-8097
-51,Gracie,Gilson,Indiana,1-(574)715-5078
-52,Paula,Astin,New Jersey,1-(862)441-9821
-53,Cherice,Ivanikhin,Massach...,1-(508)812-4405
-54,Henrie,Cohn,Florida,1-(813)319-0952
-55,Anthia,Pineaux,California,1-(916)282-1426
-56,Dalenna,Winckle,Texas,1-(915)961-0403
-57,Vernice,Lillicrop,Minnesota,1-(952)530-5390
-58,Cherin,Brewerton,California,1-(626)724-6468
-59,Viva,Beckey,Arizona,1-(623)773-4469
-60,Janaya,McAllen,Colorado,1-(303)490-6583
-61,Patrizia,Marney,California,1-(408)225-5851
-62,Hartwell,Bellow,Idaho,1-(208)741-3696
-63,Leslie,Bollon,Pennsyl...,1-(717)341-6794
-64,Leopold,Toombs,Florida,1-(850)859-3435
-65,Thea,Prose,Texas,1-(214)513-8473
-66,Moria,Casino,Colorado,1-(303)342-7853
-67,Raquel,Smillie,Kansas,1-(785)877-4281
-68,Russ,Boorn,North C...,1-(919)457-3252
-69,Lynnet,Regorz,Oklahoma,1-(405)239-9063
-70,Brander,Kennham,Pennsyl...,1-(717)850-9371
-71,Moll,Dimmock,North C...,1-(910)872-0607
-72,Kristyn,Pawel,Montana,1-(406)548-6641
-73,Faythe,Wem,Louisiana,1-(225)542-1112
-74,Meier,Raund,Texas,1-(915)641-3412
-75,Sheelah,Weine,Florida,1-(321)628-9148
-76,Gilbertina,Binfield,Illinois,1-(309)130-8100
-77,Nerte,Lavigne,Oklahoma,1-(405)879-8511
-78,Maryellen,Cardiff,Georgia,1-(404)433-2943
-79,Giffard,Dundridge,Colorado,1-(720)456-9094
-80,Steffi,Muddle,Georgia,1-(404)328-7543
-81,Lita,Truckell,New York,1-(718)184-5360
-82,Fred,McDiarmid,Texas,1-(210)136-3961
-83,Nero,Tratton,Missouri,1-(816)409-5177
-84,Susette,Horbath,Texas,1-(979)181-6333
-85,Karlan,Devenish,Washington,1-(509)572-0918
-86,Aurie,Lillywhite,Kansas,1-(785)563-9974
-87,Dyanne,Gulvin,Oklahoma,1-(405)149-0598
-88,Wallache,Coate,Massach...,1-(508)445-7573
-89,Arlen,McCuish,Maryland,1-(410)649-9689
-90,Lynnelle,Querree,California,1-(619)298-6741
-91,Michel,Drydale,Missouri,1-(816)952-2634
+id;first_name;city
+1;Elbertine;California
+2;Marcella;Colorado
+3;Daria;Florida
+4;Sherilyn;Distric...
+5;Ketty;Texas
+6;Jethro;California
+7;Jeremiah;California
+8;Constancia;Texas
+9;Muire;Idaho
+10;Abigail;Texas
+11;Wynne;Georgia
+12;Pietra;Minnesota
+13;Bram;Iowa
+14;Rees;New York
+15;Valentijn;California
+16;Monique;Missouri
+17;Orazio;Louisiana
+18;Mason;Texas
+19;Alf;Arizona
+20;Colette;Texas
+21;Laney;Virginia
+22;Horace;Texas
+23;Chad;California
+24;Lina;Texas
+25;Maisey;Oklahoma
+26;Brett;Kansas
+27;Ermin;Ohio
+28;Avrit;Texas
+29;Dinny;Massach...
+30;Winonah;Florida
+31;Clemmie;Tennessee
+32;Arlinda;Connect...
+33;Chloette;Florida
+34;Malva;Oklahoma
+35;Lavinie;South D...
+36;Ray;Ohio
+37;Burt;Rhode I...
+38;Llywellyn;Ohio
+39;Anna-diana;West Vi...
+40;Joanna;South D...
+41;Alana;California
+42;Mort;California
+43;Lissie;Nevada
+44;Hedvige;Florida
+45;Leroy;New Jersey
+46;Glendon;Georgia
+47;Radcliffe;California
+48;Rosalynd;West Vi...
+49;Ailee;Texas
+50;Trudie;Iowa
+51;Gracie;Indiana
+52;Paula;New Jersey
+53;Cherice;Massach...
+54;Henrie;Florida
+55;Anthia;California
+56;Dalenna;Texas
+57;Vernice;Minnesota
+58;Cherin;California
+59;Viva;Arizona
+60;Janaya;Colorado
+61;Patrizia;California
+62;Hartwell;Idaho
+63;Leslie;Pennsyl...
+64;Leopold;Florida
+65;Thea;Texas
+66;Moria;Colorado
+67;Raquel;Kansas
+68;Russ;North C...
+69;Lynnet;Oklahoma
+70;Brander;Pennsyl...
+71;Moll;North C...
+72;Kristyn;Montana
+73;Faythe;Louisiana
+74;Meier;Texas
+75;Sheelah;Florida
+76;Gilbertina;Illinois
+77;Nerte;Oklahoma
+78;Maryellen;Georgia
+79;Giffard;Colorado
+80;Steffi;Georgia
+81;Lita;New York
+82;Fred;Texas
+83;Nero;Missouri
+84;Susette;Texas
+85;Karlan;Washington
+86;Aurie;Kansas
+87;Dyanne;Oklahoma
+88;Wallache;Massach...
+89;Arlen;Maryland
+90;Lynnelle;California
+91;Michel;Missouri
